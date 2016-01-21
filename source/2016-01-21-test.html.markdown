@@ -1,0 +1,9 @@
+---
+title: NEW Article
+date: 2016-01-21
+tags: example
+---
+
+Another article
+
+#test test
